@@ -1,0 +1,1 @@
+{"description":"Sum up 24 November 2026's world news in one image: a newspaper front page with 33 verified stories.","license":"MIT","main":"main.ts","name":"news-image-20261124","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
